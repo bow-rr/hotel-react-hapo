@@ -20,7 +20,7 @@ const App = () => {
       <Footer
         address={[
           "Address: 15 Upper Street, London, EC1 2HB",
-          "E-mail: hello@Upperhotel.com",
+          "E-mail: info@Thameshotel.com",
           "Telephone: 010 23456789",
         ]}
       />
